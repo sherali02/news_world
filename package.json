@@ -2,6 +2,7 @@
   "name": "news_world",
   "homepage": "https://sherali02.github.io/news_world",
   "private": true,
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {

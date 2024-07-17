@@ -9,7 +9,7 @@ const App = () => {
 
   const apiKey = import.meta.env.VITE_API_KEY;
   
-  // console.log(`Your API key is ${apiKey}`);
+  console.log(`Your API key is ${apiKey}`);
   return (
     <div>
       <Navbar setcategory={setcategory} />

@@ -9,7 +9,7 @@ const App = () => {
 
   const apiKey = "pub_48687973effc737ad6a2e5122bb8224520cb4";
   
-  console.log(`Your API key is ${apiKey}`);
+  // console.log(`Your API key is ${apiKey}`);
   return (
     <div>
       <Navbar setcategory={setcategory} />

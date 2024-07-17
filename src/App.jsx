@@ -7,7 +7,7 @@ import Newsboard from "./Components/Newsboard"
 const App = () => {
   const [category, setcategory] = useState('top');
 
-  const apiKey = import.meta.env.VITE_API_KEY;
+  const apiKey = "pub_48687973effc737ad6a2e5122bb8224520cb4";
   
   console.log(`Your API key is ${apiKey}`);
   return (
